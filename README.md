@@ -1,2 +1,2 @@
 # number-recognition-ai
-This an AI model that is capable of recognizing handwritten numbers through its convolutional architecture.
+This an AI model that is (will be) capable of recognizing handwritten expressions and equations through its convolutional architecture and outputting their result.
